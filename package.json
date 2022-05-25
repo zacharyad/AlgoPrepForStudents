@@ -1,0 +1,13 @@
+{
+  "name": "stacks-qs-ll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LL.js",
+  "scripts": {
+    "zach": "echo Oh damn, yes, that guy is cool.",
+    "LL": "node LL.js",
+    "BST": "node bst.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
